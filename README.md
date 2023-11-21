@@ -24,15 +24,20 @@ The data has been collected through web scraping from the 'https://www.imdb.com/
 
 # Discription of the project
 
-The topic of exploring the lowest-rated 100 movies on IBMD website holds significance in figuring out what the lowest-rated movies have in common, how important audience preferences are in the evaluation system, and what factors influence audience choice.
+Exploring the lowest-rated 100 movies on the IBMD website is crucial for understanding commonalities among poorly rated films, the significance of audience preferences in the evaluation system, and the factors influencing audience choices. Reddy (2020) suggests a potential correlation between the ratings of low-scoring movies and the internet's movie recommendation mechanism. Building on this, Kotkov (2022) emphasizes the impact of movie tags on influencing movie rating decisions. This study aims to explain why audiences give films low ratings and its potential trend.
+
+Reddy, M. M., Kanmani, R. S., & Surendiran, B. (2020, February). Analysis of Movie Recommendation Systems; with and without considering the low rated movies. In *2020 International Conference on Emerging Trends in Information Technology and Engineering (ic-ETITE)* (pp. 1-4). IEEE.
+
+Kotkov, D., Medlar, A., Satyal, U. R., Maslov, A., Neovius, M., & Glowacka, D. (2022, April). Rating consistency is consistently underrated: An exploratory analysis of movie-tag rating inconsistency. In *Proceedings of the 37th ACM/SIGAPP Symposium on Applied Computing* (pp. 1355-1364).
+
 
 ## Research Question (RQ):
 
-What are the common characteristics or patterns observed in the lowest-rated 100 movies on IBMD, and how do these align with existing theories on film criticism?
+What are the common characteristics or patterns observed in the lowest-rated 100 movies on IBMD ?
 
 ## Hypothesis:
 
-Movies with lower ratings on IBMD may exhibit a convergence of factors such as weak narrative structures, substandard performances, and technical flaws, aligning with previous theoretical claims regarding the determinants of low audience ratings.
+Movies with lower ratings on IBMD may exhibit a convergence of factors such as unrasonable rating mechanism and weak narrative structures, substandard performances, and technical flaws.
 
 ## Exploration and Addressing RQs:
 

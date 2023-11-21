@@ -40,9 +40,13 @@ To explore this topic, a comprehensive analysis of the lowest-rated 100 movies o
 
 ## Data Requirements:
 Movie Information: Title, release year, genre, duration.
+
 Audience Ratings: Ratings on IBMD.
+
 Production Details: Director, writer, budget.
+
 Audience Engagement: Review count, comments, and user reviews.
+
 
 ## Tools and Methods:
 Web Scraping: Utilize web scraping tools or libraries (e.g., Beautiful Soup) to collect data from IBMD website.

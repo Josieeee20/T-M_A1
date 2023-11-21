@@ -41,7 +41,7 @@ Movies with lower ratings on IBMD may exhibit a convergence of factors such as u
 
 ## Exploration and Addressing RQs:
 
-To explore this topic, a comprehensive analysis of the lowest-rated 100 movies on IBMD can be conducted. This involves data collection, categorization, and comparative analysis of various features such as plot complexity, acting quality, production budget, and audience engagement.
+To explore this topic, a comprehensive analysis of the lowest-rated 100 movies on IBMD can be conducted. This involves data collection, categorization, and comparative analysis of various features such as plot complexity, acting quality and audience engagement.
 
 ## Data Requirements:
 Movie Information: Title, release year, genre, duration.

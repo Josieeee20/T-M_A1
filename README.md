@@ -50,8 +50,11 @@ Audience Engagement: Review count, comments, and user reviews.
 
 ## Tools and Methods:
 Web Scraping: Utilize web scraping tools or libraries (e.g., Beautiful Soup) to collect data from IBMD website.
+
 Data Analysis: Employ statistical tools (e.g., Python with Pandas and NumPy) to analyze the collected data.
+
 Visualization: Create visualizations (e.g., charts, graphs) to present patterns and trends.
+
 Text Analysis: For analyzing user reviews and comments, natural language processing tools (e.g., NLTK or spaCy) can be employed.
 
 By employing these tools and methods, the research can systematically explore the identified patterns in the lowest-rated movies, providing insights into the factors contributing to their low ratings and how these align with existing theoretical claims.
